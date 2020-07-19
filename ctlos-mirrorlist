@@ -1,4 +1,5 @@
 # Server
 
+Server = https://cvc.keybase.pub/$repo/$arch
 Server = https://osdn.net/projects/ctlos/storage/$repo/$arch
-#Server = https://github.com/ctlos/$repo/raw/master/$arch
+Server = https://raw.githubusercontent.com/ctlos/$repo/dev/$arch
