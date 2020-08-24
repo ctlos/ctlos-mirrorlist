@@ -7,7 +7,7 @@ url="https://github.com/ctlos/ctlos-mirrorlist"
 license=('GPL3')
 backup=(etc/pacman.d/ctlos-mirrorlist)
 source=('ctlos-mirrorlist')
-sha256sums=('cfdced50192944c6e66648d0dd40cdddbeddb1ef3c4cefbecd29569ea1cb7d80')
+sha256sums=('8d2912260cfc4ef0e4e0bf514c21a9557ad0400e8c9060767e2727d083e5de19')
 
 package() {
   mkdir -p ${pkgdir}/etc/pacman.d
