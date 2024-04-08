@@ -1,5 +1,4 @@
 # Server
 
 Server = https://raw.githubusercontent.com/ctlos/$repo/master/$arch
-Server = https://osdn.net/projects/ctlos/storage/$repo/$arch
-Server = https://cvc.keybase.pub/$repo
+Server = https://git.sr.ht/~cvc/$repo/blob/main/$arch
